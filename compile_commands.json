@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/opt/redis_client_b/build",
+  "command": "g++    -g -O3 -std=c++0x -Wall -Werror   -o CMakeFiles/socket_client.dir/src/socket_client.cpp.o -c /opt/redis_client_b/src/socket_client.cpp",
+  "file": "/opt/redis_client_b/src/socket_client.cpp"
+},
+{
+  "directory": "/opt/redis_client_b/build",
+  "command": "g++    -g -O3 -std=c++0x -Wall -Werror   -o CMakeFiles/socket_server.dir/src/socket_server.cpp.o -c /opt/redis_client_b/src/socket_server.cpp",
+  "file": "/opt/redis_client_b/src/socket_server.cpp"
+}
+]
